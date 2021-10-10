@@ -16,7 +16,7 @@ def generate():
 		print(permcheck,'is not available. Choose between a or c')
 		exit()
 
-	link = f'https://discord.com/oauth2/authorize?client_id={application_id}&permissions={perms}&scope=bot'
+	link = f'https://discord.com/oauth2/authorize?client_id={application_id}&permissions={perms}&scope=bot%20applications.commands'
 
 	print(link)
 

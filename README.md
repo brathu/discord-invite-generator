@@ -17,7 +17,7 @@ py gen.py 458276816071950337 8
 ```
 Output:
 ```bash
-https://discord.com/oauth2/authorize?client_id=458276816071950337&permissions=8&scope=bot
+https://discord.com/oauth2/authorize?client_id=458276816071950337&permissions=8&scope=bot%20applications.commands
 ```
 You just run the script without args too.
 

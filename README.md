@@ -19,7 +19,7 @@ Output:
 ```bash
 https://discord.com/oauth2/authorize?client_id=458276816071950337&permissions=8&scope=bot%20applications.commands
 ```
-You just run the script without args too.
+You can run the script without args too.
 
 ## Perms
 List of all perms: https://discord.com/developers/docs/topics/permissions#permissions-bitwise-permission-flags
